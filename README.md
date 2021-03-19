@@ -37,3 +37,23 @@ Python 2.7.16 (default, Oct 10 2019, 22:02:15)
 Type "help", "copyright", "credits" or "license" for more information.
 >>>
 ```
+
+### 安装pyaudio
+```
+pi@raspberrypi:~ $ sudo apt-get install portaudio19-dev
+...
+pi@raspberrypi:~ $ pip install pyaudio
+...
+```
+
+### 测试录音和播放
+```
+pi@raspberrypi:~ $ git clone https://github.com/jasperyen/pyaudio-on-rpi.git
+...
+pi@raspberrypi:~ $ cd pyaudio-on-rpi/
+...
+pi@raspberrypi:~ $ python play.py
+...
+pi@raspberrypi:~ $ python record.py
+...
+```
