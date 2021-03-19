@@ -59,6 +59,6 @@ pi@raspberrypi:~/pyaudio-on-rpi $ python record.py
 ```
 
 ### 叁考
-https://stackoverflow.com/questions/39371772/how-to-install-anaconda-on-raspberry-pi-3-model-b
-https://raspberrypi.stackexchange.com/questions/84666/problem-on-installing-pyaudio-on-raspberry-pi
-https://dolby.io/blog/capturing-high-quality-audio-with-python-and-pyaudio
+ - https://stackoverflow.com/questions/39371772/how-to-install-anaconda-on-raspberry-pi-3-model-b
+ - https://raspberrypi.stackexchange.com/questions/84666/problem-on-installing-pyaudio-on-raspberry-pi
+ - https://dolby.io/blog/capturing-high-quality-audio-with-python-and-pyaudio
